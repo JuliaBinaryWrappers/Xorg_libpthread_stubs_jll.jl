@@ -6,7 +6,7 @@ os = "linux"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.aarch64-linux-gnu.tar.gz"
 [[Xorg_libpthread_stubs]]
 arch = "aarch64"
 git-tree-sha1 = "337a525519c761b4e5b542da5bc754383047f3df"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.aarch64-linux-musl.tar.gz"
 [[Xorg_libpthread_stubs]]
 arch = "aarch64"
 git-tree-sha1 = "337a525519c761b4e5b542da5bc754383047f3df"
@@ -23,7 +23,7 @@ os = "freebsd"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.aarch64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.aarch64-unknown-freebsd.tar.gz"
 [[Xorg_libpthread_stubs]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -33,7 +33,7 @@ os = "linux"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.armv6l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.armv6l-linux-gnueabihf.tar.gz"
 [[Xorg_libpthread_stubs]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -43,7 +43,7 @@ os = "linux"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.armv6l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.armv6l-linux-musleabihf.tar.gz"
 [[Xorg_libpthread_stubs]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -53,7 +53,7 @@ os = "linux"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.armv7l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.armv7l-linux-gnueabihf.tar.gz"
 [[Xorg_libpthread_stubs]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -63,7 +63,7 @@ os = "linux"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.armv7l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.armv7l-linux-musleabihf.tar.gz"
 [[Xorg_libpthread_stubs]]
 arch = "i686"
 git-tree-sha1 = "337a525519c761b4e5b542da5bc754383047f3df"
@@ -72,7 +72,7 @@ os = "linux"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.i686-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.i686-linux-gnu.tar.gz"
 [[Xorg_libpthread_stubs]]
 arch = "i686"
 git-tree-sha1 = "337a525519c761b4e5b542da5bc754383047f3df"
@@ -81,7 +81,7 @@ os = "linux"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.i686-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.i686-linux-musl.tar.gz"
 [[Xorg_libpthread_stubs]]
 arch = "powerpc64le"
 git-tree-sha1 = "337a525519c761b4e5b542da5bc754383047f3df"
@@ -90,7 +90,7 @@ os = "linux"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.powerpc64le-linux-gnu.tar.gz"
 [[Xorg_libpthread_stubs]]
 arch = "riscv64"
 git-tree-sha1 = "337a525519c761b4e5b542da5bc754383047f3df"
@@ -99,7 +99,7 @@ os = "linux"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.riscv64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.riscv64-linux-gnu.tar.gz"
 [[Xorg_libpthread_stubs]]
 arch = "x86_64"
 git-tree-sha1 = "337a525519c761b4e5b542da5bc754383047f3df"
@@ -108,7 +108,7 @@ os = "linux"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.x86_64-linux-gnu.tar.gz"
 [[Xorg_libpthread_stubs]]
 arch = "x86_64"
 git-tree-sha1 = "337a525519c761b4e5b542da5bc754383047f3df"
@@ -117,7 +117,7 @@ os = "linux"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.x86_64-linux-musl.tar.gz"
 [[Xorg_libpthread_stubs]]
 arch = "x86_64"
 git-tree-sha1 = "337a525519c761b4e5b542da5bc754383047f3df"
@@ -125,4 +125,4 @@ os = "freebsd"
 
     [[Xorg_libpthread_stubs.download]]
     sha256 = "46f3e17a353ad2d298969c10d9bcc82e63551f0df3f601fd6b6e9bcfde4dea7a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.1+2/Xorg_libpthread_stubs.v0.1.1.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libpthread_stubs_jll.jl/releases/download/Xorg_libpthread_stubs-v0.1.2+0/Xorg_libpthread_stubs.v0.1.2.x86_64-unknown-freebsd.tar.gz"
